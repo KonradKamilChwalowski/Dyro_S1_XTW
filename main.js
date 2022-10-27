@@ -268,7 +268,7 @@ const Scenes = [
         ]
     },
     {
-        id: "Pieprz",
+        id: "Kumin",
         text: 'Sypiesz w Dy-Roo kuminem, ale on dmucha na Ciebie! Od kuminu zaczynasz płakać! Dy-Roo skacze na Ciebie i pokonuje bez trudu!',
         tlo: 'url("img/Atak.png")',
         options: [
